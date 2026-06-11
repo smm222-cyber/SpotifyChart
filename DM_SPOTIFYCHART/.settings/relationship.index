@@ -1,0 +1,324 @@
+[ {
+  "baseItem" : {
+    "id" : "_2Z8PEFTAEfGHy4UEsuFIYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RgYKgFS5EfGvufKz5utKoQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RgYKgFS5EfGvufKz5utKoQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_ALBUMS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_ALBUM",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_COUNTRY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_DATE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6adSMFVEEfGOhMmFQcx2Rw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_ALBUMS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_SONGS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_LABEL",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Ckz6IFVpEfGbF8BsUv47qg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_ALBUMS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_ARTISTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_SONGS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_COUNTRY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_KUj2UFS0EfGmVsR4aWBjBQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ILB-AFS0EfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ILB-AFS0EfGmVsR4aWBjBQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_ALBUMS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_ARTIST",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_LABEL",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_YqRTcFS7EfGvufKz5utKoQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_QChXUFS3EfGvufKz5utKoQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_QChXUFS3EfGvufKz5utKoQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_SONGS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_ARTIST",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_LABEL",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Z58LkFS7EfGvufKz5utKoQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_ALBUMS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_ARTISTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_SONGS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_DATE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_bIUqQFS7EfGvufKz5utKoQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_hiiDsFSyEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_hiiDsFSyEfGmVsR4aWBjBQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_ALBUMS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_ARTISTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_SONGS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_ARTIST",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_lsI_kFTBEfGHy4UEsuFIYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_HzPE4FS7EfGvufKz5utKoQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_HzPE4FS7EfGvufKz5utKoQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_SONGS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_COUNTRY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_DATE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_SONG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - FACT_SONG_CHART",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pW5n0FTGEfGHy4UEsuFIYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_QUS8cFS6EfGvufKz5utKoQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_QUS8cFS6EfGvufKz5utKoQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kWfD8FSwEfGmVsR4aWBjBQ - STG_CHARTS_ARTISTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_ARTIST",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_COUNTRY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - DIM_DATE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_x0kZsFSwEfGmVsR4aWBjBQ - FACT_ARTIST_CHART",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_RgZYoFS5EfGvufKz5utKoQ" name="charts_albums" dataPackage="_RgZYoVS5EfGvufKz5utKoQ" Server="Localhost 127.0.0.1" FilePath="D:/Universidad/5.Quinto Semestre/Datawarehouse/ProyectoSpotify/archive/charts_albums_weekly.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_RgZYoVS5EfGvufKz5utKoQ" name="default" dataManager="_RgZYoFS5EfGvufKz5utKoQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_RgZYolS5EfGvufKz5utKoQ" id="_GYDAoFS4EfGvufKz5utKoQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYo1S5EfGvufKz5utKoQ" label="date" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYpFS5EfGvufKz5utKoQ" label="country" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYpVS5EfGvufKz5utKoQ" label="rank" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYplS5EfGvufKz5utKoQ" label="uri" length="150" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYp1S5EfGvufKz5utKoQ" label="album_name" length="300" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYqFS5EfGvufKz5utKoQ" label="artist_names" length="500" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYqVS5EfGvufKz5utKoQ" label="label" length="150" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYqlS5EfGvufKz5utKoQ" label="peak_rank" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYq1S5EfGvufKz5utKoQ" label="previous_rank" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYrFS5EfGvufKz5utKoQ" label="weeks_on_chart" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYrVS5EfGvufKz5utKoQ" label="consecutive_weeks" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYrlS5EfGvufKz5utKoQ" label="entry_status" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYr1S5EfGvufKz5utKoQ" label="peak_date" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYsFS5EfGvufKz5utKoQ" label="entry_rank" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYsVS5EfGvufKz5utKoQ" label="entry_date" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYslS5EfGvufKz5utKoQ" label="release_date" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_RgZYs1S5EfGvufKz5utKoQ" label="artist_uris" length="500" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
